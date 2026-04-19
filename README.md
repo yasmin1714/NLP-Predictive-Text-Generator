@@ -1,4 +1,4 @@
-# 🧠 Predictive Text Generator using NLP
+# 🧠 SmartNext - Predictive Text Generator using NLP
 
 A **Predictive Text Generator** that suggests the next word based on user input, similar to autocomplete features in messaging applications.  
 This project uses **Natural Language Processing (NLP)** techniques and a **bigram-based Markov Chain (n-gram model)** to generate context-aware word predictions.
